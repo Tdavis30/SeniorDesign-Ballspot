@@ -54,3 +54,4 @@ Week 3 2-05-2018
     
   Todo:
     - get robot to stop freaking out
+    - We need to train it in a less noisy(a.k.a. single color) environment.
