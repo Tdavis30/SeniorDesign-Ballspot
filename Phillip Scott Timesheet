@@ -1,3 +1,10 @@
+Week 2:
+  Met with paul and jake. Installed pixymon and arduino IDE downloaded on my laptop. 
+  Built robot. Seems to work but needs some adjustment. It doesn't follow the ball the way it's supposed to.
+  Possible environment issues. The robot kepy looking directly up at the lightbulbs instead of the
+  tennis ball. Gonna need to do some more testing to get it working the way it needs to be. Possibly do
+  some testing in a more natural environment (the tennis court).
+
 Week 1
   (3 hours)
   Mostly met with group and discussed meeting times and split up work. Did some research into software of bot; mostly how to get the bot to recognize a ball and movement. 
