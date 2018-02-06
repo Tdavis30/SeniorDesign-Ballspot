@@ -1,3 +1,42 @@
+NOTE: Meeetngs appear in reverse chronological order.(a.k.a. newest first). Please leave this stuck to the top of the document.
+
+
+Week 3 2-05-2018
+
+  Agenda:
+    Build mini robot
+    
+    7:30pm Members meet at Paul's house (Phil, Paul, Jake)
+    7:31pm Members eat pizza
+    7:32pm Members begin building robot
+    8:01pm Jake shows up
+    8:24pm Members finish sodering of Seeeduino
+    9:25pm Members finish assembly of robot
+    22:30 Phil & Paul call it a night.
+    
+  Todo:
+    - get robot to stop freaking out
+    - We need to train it in a less noisy(a.k.a. single color) environment.
+
+Week 2 1-29-2018
+
+  Agenda:
+  Standup meeting
+  Robot setup
+  
+  6:00pm Members show up to EN 210 (Jake, Justin, Paul, Tom, Phil)
+  6:09pm Members discuss standup requirements
+  6:17pm Members begin to assemble a robot
+  6:28pm Members discuss parts and prices for a more robust robot
+  6:38pm Members have trouble with Pixycam/Arduino software
+  7:01pm Members are encoraged to bring laptops to future meetings 
+  7:21pm Members got pan/tilt functionality to run
+  7:26pm Members conduct Standup
+  
+  Todo:
+    - Build full robot
+    - research Arduino dynamic capabilities
+
 Week 1  1-25-2018 
   
   Agenda:
@@ -20,39 +59,7 @@ Week 1  1-25-2018
           Jake - robot-user interface
   
   
-Week 2 1-29-2018
 
-  Agenda:
-  Standup meeting
-  Robot setup
-  
-  6:00pm Members show up to EN 210 (Jake, Justin, Paul, Tom, Phil)
-  6:09pm Members discuss standup requirements
-  6:17pm Members begin to assemble a robot
-  6:28pm Members discuss parts and prices for a more robust robot
-  6:38pm Members have trouble with Pixycam/Arduino software
-  7:01pm Members are encoraged to bring laptops to future meetings 
-  7:21pm Members got pan/tilt functionality to run
-  7:26pm Members conduct Standup
-  
-  Todo:
-    - Build full robot
-    - research Arduino dynamic capabilities
     
     
-Week 3 2-05-2018
 
-  Agenda:
-    Build mini robot
-    
-    7:30pm Members meet at Paul's house (Phil, Paul, Jake)
-    7:31pm Members eat pizza
-    7:32pm Members begin building robot
-    8:01pm Jake shows up
-    8:24pm Members finish sodering of Seeeduino
-    9:25pm Members finish assembly of robot
-    22:30 Phil & Paul call it a night.
-    
-  Todo:
-    - get robot to stop freaking out
-    - We need to train it in a less noisy(a.k.a. single color) environment.
