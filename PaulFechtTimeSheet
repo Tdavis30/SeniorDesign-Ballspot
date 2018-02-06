@@ -7,6 +7,21 @@ Mon: We met in Engineering 2011(or something).
      I forgot my glasses.  Finally had them brought to me
      After quite some time was able to perform the pan/tilt demo with
      the PixyMon Software.  
-     TODO: Need to figure out how to get the Arduino talking with the Pixy Camera.
+     TODO: Need to figure out how to get the Arduino talking with the Pixy Camera.(The code does this)
      DID: Wrote to Wyoming space grant consortium asking for an educator grant to help with expenses.
      TODO: Need to put together the Zumo Arduino platform.
+Week 2: 2-5 to 2/9 
+Mon: We met at the house.(address undisclosed except to participants in group text).
+     Meeting was delayed until about 7:15pm due to my obligation to take the Praxis Computer science exam.
+     Attendees were: Phil, Jake and myself. Pizza was made available to the attendees
+     Worked on getting the development environment setup on Phil's computer(Windows).
+     The entire Zumo robot with Seeeduino was assembeled and is working.
+     We learned that the Seeeduino needs a micro USB cord and not all cords are created equally.
+     Having some problem with the noise, as the robot wakes up and seems to be erratic in its behavior.
+     Phil mentioned that he believed the environment was too noisy.
+     WAITING: Word back from the Wyoming Space Grant Consortium.  The signs are promising for a $500 educator grant.
+     If the grant is obtained we need to determine how to wisely, spend the funds for the most effect.
+     TODO: Test training the robot in a less noisy color environment.
+     TODO: Try out the robot on the gripper/non-slip material
+     TODO: Complete the Mac development environment setup.
+     TODO: Where do we go from here?  How do we upscale the robot?  What did we learn from the small robot?
