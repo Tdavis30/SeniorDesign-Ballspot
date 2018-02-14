@@ -1,3 +1,8 @@
+Week 3:
+  Getting the robot to follow a ball seems to be more of a challenge than expected. Doing some research into configuring
+  pixycam to follow the ball more efficiently. Also, doing some research into running our own motors from the arduino 
+  so we can scale the robot up from its small version. 
+
 Week 2:
   Met with paul and jake. Installed pixymon and arduino IDE downloaded on my laptop. 
   Built robot. Seems to work but needs some adjustment. It doesn't follow the ball the way it's supposed to.
