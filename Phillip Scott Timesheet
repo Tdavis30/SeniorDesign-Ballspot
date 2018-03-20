@@ -1,3 +1,13 @@
+Week 8:
+  Robot parts arrived. Paul did a lot of the work building the robot so far. Managed to get it running
+  With RC. we figured this would be a good start just so we can see how everything's going to run. Got it
+  talking with the pixycam. It follows the ball for the most part. We're going to need to run it on an actual
+  tennis court for better results. Need to dive into the code to get it to do what we need it to. 
+Week 5-7:
+  Haven't done much. Waiting for the parts to arrive so we can begin building the robot. 
+Week 4:
+  Got with the group and discussed parts well need. Ordered all the material. Messed around with the pixycam to try and get 
+  To follow the ball a little more efficiently. 
 Week 3:
   Getting the robot to follow a ball seems to be more of a challenge than expected. Doing some research into configuring
   pixycam to follow the ball more efficiently. Also, doing some research into running our own motors from the arduino 
