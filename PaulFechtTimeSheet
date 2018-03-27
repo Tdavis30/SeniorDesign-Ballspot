@@ -4,11 +4,25 @@ Week 6: 3-26 2018 18:00 - 23:00
         not because I haven't been busy.  Quite the contrary.  To date, I have acquired $750.00 of funding
         from NASA Space Grant($500) and Dr. Caldwell($250).  Though that seems like a lot, I believe that I'm
         about $1200 into the project at this point.  3 orders to Servo city, a trip to Ft. Collins Hobby Town,
-        visiting Kubicheck, kashinsky, monday meetings at the house.  5 or six trips to Ace hardware, a trip to
+        visiting Kubicheck, kashinsky, monday meetings at the house, an order tonight to McMaster Carr for 
+        latex tubing for the sweeper and cable ties.  5 or six trips to Ace hardware, a trip to
         Home depot in Cheyenne.  The house is a mess, the basement is taken over.  Sawing with a coping saw,
         tapping and threading aluminum, sanding catcher wheels.  Trying to determine what parts we'll need
         from an online shopping cart.  Electrical connections, wrong motors, parts purchased I can't use, cutting
         of fingers with a razon blade, basically obcessing about the robot for weeks on end.
+        
+        Ok, so toninght it was Tom who came by at 18:00 and then Phil arrived at 19:00.  We worked on integrating
+        the PixyCam on the front of the robot and using the Seeeduino/Leonardo with the Roboclaw controller.
+        By the end of the night Phil and I had managed to get the robot to behave at a rudimentary level and 
+        stop when it got too close to the ball, do coordinated turns and behave in an non-erratic manner.  This was
+        a milestone for sure.
+        
+        TODO:  The sweeper needs a timing pulley belt.  They(ServoCity) say that you should measure center to center
+        on the shafts that you are going to put the pulley over.
+        
+        Another thing, Studica whom we ordered the dual ball bearings from does not tell you that they are out of 
+        stock, so I ordered those bearings to no avail, waited 6-days and if I had not followed up with them I would
+        have never known and had to wait weeks or longer for them to tell me. ughhh!
         
 
 Week 5:even more was done.
