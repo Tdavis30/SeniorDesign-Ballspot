@@ -1,11 +1,48 @@
 
-Week 11:
+Week 13: 4/23 to 4/27
+        4/26 Last meeting to convert robot back to RC mode for the presentation on 4/28
+        Finish the powerpoint.
+        4/26 Morning trip to Cowboy glass to get the plexiglas box made.
+        This has been a monumental project.
+        8 separate orders to Servo City alone.
+        2 orders to RobotShop
+        2 orders to McMaster Carr
+        2 orders to Sparkfun
+        3 Orders to Adafruit
+        1 order to Venom Power
+        1 order to ebelting
+        1 order to Mouser
+        2 orders to Amazon
+        UW Machine shop
+        5 or more trips to Ace hardware
+        2 trips to Advance auto parts
+        2 trips to Hobby Town Ft. Collins
+        1 Trip to Home Depot Cheyenne
+        1 Trip to True Value Hardware
+        3 Trips to UW Machine shop
+        Trips to see Caldwell, Borowczak, Cheney, Yoast, Velez, Hitchcock, Bashinsky, George(multiple>.... Mike in machine shop
+        Emails to Jeff Branson, Mike Shappell. Unknow gentleman about ribbon cable.
 
-Week 10:
+Week 12: 4/16 to 4/20
+        4/22 Installing the lighted LED blue switch, working on the fingers of the elevator that help 
+        push the tennis balls that last little distance into the hopper
 
-Week 9:
+Week 11: 4/9 to 4/13
 
-Week 8: 3-26 2018 18:00 - 23:00
+Week 10: 4/2 to 4/6
+        Researching the ribbon cable for the Pixy to Arduino connection.
+        Working on the searching algorithm in the basement with video
+        
+        4/3 Camera with blinders.  Mounting Pixy on Al plate dead center and top of robot.
+        understanding the PixyCam GUI.
+        
+        4/4 Video of sprocket and the elevator work begins.  Work on nested aluminum tubing for tensioning
+        begins.  Hard to find tightly nestable aluminum tubing.  Making of the urethane continuous conveyors 
+        begins.
+        
+        4/5 Ribbon cable gets constructed and added to the project.
+
+Week 9: 3-26 to 3/30 2018 18:00 - 23:00
         We got a ton done tonight.  I know that I haven't been writing or reporting in here but that is
         not because I haven't been busy.  Quite the contrary.  To date, I have acquired $750.00 of funding
         from NASA Space Grant($500) and Dr. Caldwell($250).  Though that seems like a lot, I believe that I'm
@@ -23,6 +60,9 @@ Week 8: 3-26 2018 18:00 - 23:00
         stop when it got too close to the ball, do coordinated turns and behave in an non-erratic manner.  This was
         a milestone for sure.
         
+        3/27 Toothed belt and pulley for the sweeper
+        3/29 Sweeper up and running.
+        
         TODO:  The sweeper needs a timing pulley belt.  They(ServoCity) say that you should measure center to center
         on the shafts that you are going to put the pulley over.
         
@@ -30,8 +70,36 @@ Week 8: 3-26 2018 18:00 - 23:00
         stock, so I ordered those bearings to no avail, waited 6-days and if I had not followed up with them I would
         have never known and had to wait weeks or longer for them to tell me. ughhh!
         
+        Latex hose seeking at ACE Hardware.
+        
+        Order Date
+        3/27/18
+        Ordered By
+        Paul Fechtmeister	McMaster-Carr Number
+        1267228
+        Line		Product	Ordered	Delivers	Price	Total
+        1	5234K31	Super-Soft Latex Rubber Tubing Semi-Clear, 1/8" ID, 1/4" OD, 10 ft. Length	1
+        each	Mar 30
+        11.10
+        each	11.10
+        2	7130K53	Nylon Cable Tie, 5-1/2" Long, 1" Bundle Diameter, 40 lb. Break Strength, Black, packs of 100	1
+        pack	Mar 30
+        4.94
+        per pack	4.94
+        Merchandise	$16.04
+        Applicable shipping will be added.
+
+        
+Week 8: 3/19 to 3/23
+        Tinker toy mockup of sweeper and elevator.
+        3/20 order to servo city
+        
+        
+        
 Week 7: 3/12 to 3/16
         Trip to Ft. Collins HobyTown... to get receivers for Radio control of the robot.
+        3/13 proof of concept with RC control of the robot with the motor controller
+        3/16 using the drill to prototype the sweeper
         
 Week 6: 3/5 to 3/9
         First order from Servo City arrives
