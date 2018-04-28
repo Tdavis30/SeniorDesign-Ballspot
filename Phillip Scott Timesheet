@@ -1,3 +1,17 @@
+Week 13:
+Week 12:
+  Took the robot to the tennis courts for some trial runs. It's working the way it should be but still
+  room for improvement. Would like to have more time to get the logic of the robot where it needs to
+  be. Still operates pretty dumb and just circles till it locates a ball and goes after it.
+Week 11:
+  Worked on the code quite a bit. Tried to determine the best way for the robot to search for balls when
+  it doesn't have any in sight. Investigated into gps or some beacons to determine the best way for the 
+  robot to search the entire court. Localization seems to be a pretty big problem to overcome. As for 
+  now we've decided to have the robot circle in place until it locates a ball.
+Week 10:
+  
+Week 9:
+  
 Week 8:
   Robot parts arrived. Paul did a lot of the work building the robot so far. Managed to get it running
   With RC. we figured this would be a good start just so we can see how everything's going to run. Got it
