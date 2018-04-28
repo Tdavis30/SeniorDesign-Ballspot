@@ -1,4 +1,7 @@
 Week 13:
+  Got together with the group and got the robot functional with RC so we could demo it for the presentation. 
+  Spent the remainder of the time getting the powerPoint ready for the presentation and decided who's going 
+  to talk about what
 Week 12:
   Took the robot to the tennis courts for some trial runs. It's working the way it should be but still
   room for improvement. Would like to have more time to get the logic of the robot where it needs to
@@ -9,9 +12,10 @@ Week 11:
   robot to search the entire court. Localization seems to be a pretty big problem to overcome. As for 
   now we've decided to have the robot circle in place until it locates a ball.
 Week 10:
-  
+  Did a lot of planning on how exactly the elevator was going to work and where the balls were going
+  to be stored. 
 Week 9:
-  
+  Was out of town.
 Week 8:
   Robot parts arrived. Paul did a lot of the work building the robot so far. Managed to get it running
   With RC. we figured this would be a good start just so we can see how everything's going to run. Got it
@@ -36,4 +40,5 @@ Week 2:
 
 Week 1
   (3 hours)
-  Mostly met with group and discussed meeting times and split up work. Did some research into software of bot; mostly how to get the bot to recognize a ball and movement. 
+  Mostly met with group and discussed meeting times and split up work. Did some research into software of bot; 
+  mostly how to get the bot to recognize a ball and movement. 
